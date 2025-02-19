@@ -340,7 +340,7 @@ body {
 
 /* Contenedor de video */
 .video-container {
-  width: 200%;
+  width: 100%;
   max-width: 4000px;
   margin: 0 auto;
 }
